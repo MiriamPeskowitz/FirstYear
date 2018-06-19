@@ -1,0 +1,2 @@
+class DateOfLovedOnesDeath < ApplicationRecord
+end

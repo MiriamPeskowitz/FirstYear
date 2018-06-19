@@ -1,0 +1,2 @@
+class DateOfLovedOnesDeathController < ApplicationController
+end
