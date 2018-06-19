@@ -29,7 +29,7 @@ App plan
 gem 'sass-rails', '>= 3.2'
 
 
-4. How to start: I'm a user, someone just died, and I set up a page. 
+4. How to start: I'm a user, someone just died, and I set up a page. Home page-- has logins. I lost someone I love.  I'm a friend. They get different authorizations. R vs R/W/E/D
 	I sign up, login, name my friends. 
 	Form also includes date of death, who it was, their email or text. 
 	start with user model 
